@@ -7,8 +7,6 @@ homepage = "https://github.com/Mackirac"
 repository = "https://github.com/Mackirac/binary_byte"
 edition = "2018"
 keywords = ["binary", "byte", "numeric_base"]
-license-file = "LICENSE"
+license-file = "LICENSE.txt"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
