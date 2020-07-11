@@ -1,12 +1,12 @@
 [package]
 name = "binary_byte"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Mateus Vieira Corrêa <mcorrea.comp@gmail.com>"]
 description = "A small and independent Rust crate made to perform simple operations with the binary representation of bytes."
 homepage = "https://github.com/Mackirac"
 repository = "https://github.com/Mackirac/binary_byte"
 edition = "2018"
 keywords = ["binary", "byte", "numeric_base"]
-license-file = "LICENSE.txt"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
