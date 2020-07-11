@@ -1,6 +1,6 @@
 [package]
 name = "binary_byte"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Mateus Vieira Corrêa <mcorrea.comp@gmail.com>"]
 description = "A small and independent Rust crate made to perform simple operations with the binary representation of bytes."
 homepage = "https://github.com/Mackirac"
